@@ -1,0 +1,8 @@
+div {
+    height: 0px;
+    width: 0px;
+    background-color: rgb(240, 244, 244);
+    border-left: 30px solid white ;
+    border-right: 30px solid rgb(10, 2, 2);
+    border-bottom: 30px solid transparent ;
+}
